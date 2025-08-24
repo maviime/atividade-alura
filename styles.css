@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: #1a1a1a; /* preto mais claro */
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -14,7 +14,6 @@ header {
 }
 
 .chamada {
-    /* Cor de fundo alterada de roxo para azul claro */
     background: #add8e6;
     padding-bottom: 80px;
     padding-top: 80px;
